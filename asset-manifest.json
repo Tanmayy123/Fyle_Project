@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Tanmayy123.github.io/Fyle_Project/static/css/main.0e63c451.css",
-    "main.js": "/Tanmayy123.github.io/Fyle_Project/static/js/main.b73583eb.js",
-    "static/js/453.8ab44547.chunk.js": "/Tanmayy123.github.io/Fyle_Project/static/js/453.8ab44547.chunk.js",
-    "static/media/screenshot1.png": "/Tanmayy123.github.io/Fyle_Project/static/media/screenshot1.429ae5e0e192db8444b2.png",
-    "static/media/box1.png": "/Tanmayy123.github.io/Fyle_Project/static/media/box1.9917d5c3e96db8bb7f2d.png",
-    "static/media/img1.png": "/Tanmayy123.github.io/Fyle_Project/static/media/img1.f66e29bc55059a6501b1.png",
-    "static/media/img3.png": "/Tanmayy123.github.io/Fyle_Project/static/media/img3.c56e73683c77caafd095.png",
-    "static/media/img2.png": "/Tanmayy123.github.io/Fyle_Project/static/media/img2.24a51daada165ad126a6.png",
-    "index.html": "/Tanmayy123.github.io/Fyle_Project/index.html",
-    "main.0e63c451.css.map": "/Tanmayy123.github.io/Fyle_Project/static/css/main.0e63c451.css.map",
-    "main.b73583eb.js.map": "/Tanmayy123.github.io/Fyle_Project/static/js/main.b73583eb.js.map",
-    "453.8ab44547.chunk.js.map": "/Tanmayy123.github.io/Fyle_Project/static/js/453.8ab44547.chunk.js.map"
+    "main.css": "/FYLE_INTERNSHIPP/static/css/main.0e63c451.css",
+    "main.js": "/FYLE_INTERNSHIPP/static/js/main.cde764d0.js",
+    "static/js/453.8ab44547.chunk.js": "/FYLE_INTERNSHIPP/static/js/453.8ab44547.chunk.js",
+    "static/media/screenshot1.png": "/FYLE_INTERNSHIPP/static/media/screenshot1.429ae5e0e192db8444b2.png",
+    "static/media/box1.png": "/FYLE_INTERNSHIPP/static/media/box1.9917d5c3e96db8bb7f2d.png",
+    "static/media/img1.png": "/FYLE_INTERNSHIPP/static/media/img1.f66e29bc55059a6501b1.png",
+    "static/media/img3.png": "/FYLE_INTERNSHIPP/static/media/img3.c56e73683c77caafd095.png",
+    "static/media/img2.png": "/FYLE_INTERNSHIPP/static/media/img2.24a51daada165ad126a6.png",
+    "index.html": "/FYLE_INTERNSHIPP/index.html",
+    "main.0e63c451.css.map": "/FYLE_INTERNSHIPP/static/css/main.0e63c451.css.map",
+    "main.cde764d0.js.map": "/FYLE_INTERNSHIPP/static/js/main.cde764d0.js.map",
+    "453.8ab44547.chunk.js.map": "/FYLE_INTERNSHIPP/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0e63c451.css",
-    "static/js/main.b73583eb.js"
+    "static/js/main.cde764d0.js"
   ]
 }
